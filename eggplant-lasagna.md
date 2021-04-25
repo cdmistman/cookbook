@@ -25,6 +25,9 @@ Recipe adapted from [@depombo](https://github.com/depombo).
 - 1 tbsp. Italian seasoning
 - 2 cups Marinara or Tomato-Basil sauce
 - 1 cup broth - try and match your meat, or else do vegetable
+- 1 carrot, chopped
+- 2 celery sticks, chopped
+- 1/2 cup spinach
 - Salt
 - Pepper
 
@@ -32,9 +35,10 @@ Recipe adapted from [@depombo](https://github.com/depombo).
 1. Put the olive oil in a pan over medium-high heat and let it shimmer.
 2. Put your meat in the pan.
 3. Once your meat is browned on the bottom, flip it and let it cook some more.
-4. Once the meat is well browned on both sides, mash it up using a wooden spoon and add the garlic, rosemary, seasoning, and broth. Cover and let reduce for 10 minutes.
-5. Once the broth is well-reduced, add your tomato sauce, stir, and let sit until well-reduced.
-6. Salt and pepper to taste.
+4. Once the meat is well browned on both sides, mash it up using a wooden spoon and add the garlic, rosemary, seasoning, carrot, celery, and spinach.
+5. Once everything is nice and sauteed, deglaze with the broth.
+6. Once the broth is well-reduced, add your tomato sauce, stir, and let sit until well-reduced.
+7. Salt and pepper to taste.
 
 ## Ricotta Filling
 ### Ingredients
